@@ -1,4 +1,4 @@
-https://proxy.spigotmc.org/483156ecd5a040f807713c00ecfeb8de82227dfd?url=https%3A%2F%2Fi.imgur.com%2F4snj76M.jpg
+<img src= "https://proxy.spigotmc.org/483156ecd5a040f807713c00ecfeb8de82227dfd?url=https%3A%2F%2Fi.imgur.com%2F4snj76M.jpg">
 
 # [MysteryBoxes Documentation](https://www.spigotmc.org/resources/mysteryboxes-%E2%9E%A4-designed-for-networks-small-servers.12330/) v367 (unreleased)
 
